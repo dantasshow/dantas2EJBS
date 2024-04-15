@@ -21,5 +21,11 @@
     background-image: linear-gradient(#424E61, white);
     height: 500px;
     padding: 100px;
+display: flex;
+}
+
+.estudantes{
+    width: 25%
+
 }
 
